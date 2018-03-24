@@ -28,12 +28,6 @@ body img{
 
 }
 
-.text{
-    float: left;
-    width: 600px;
-
-
-}
 body ul{
     display: inline;
     
@@ -47,15 +41,26 @@ label{
 display: block
 
 }
-textarea{
-    width: 250px;
+.text{
+    width: 40%;
     height: 200px;
+      float: left;
+      margin: 0.5%;
 
 }
-form{
-width: 400px;
-float: right;
 
+.form{
+width: 20%;
+float: left;
+text-align: left;
+height: 90%;
+position: relative;
+bottom: 80%;
+margin: 1%;
+}
+h3{
 
+    text-align: center;
+    
 }
 
